@@ -263,3 +263,13 @@ main section:first-of-type button {
   line-height: 1.6;
 }
 
+.footer__social {
+  display: flex;
+  gap: .75rem;
+}
+.footer__copy {
+  opacity: .6;
+  font-size: .875rem;
+  margin-top: 1rem;
+  text-align: center;
+}
