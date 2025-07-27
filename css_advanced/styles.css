@@ -76,3 +76,41 @@ main section:first-of-type span {
 
 main section:first-of-type button {
   margin-top:
+
+/* Quotes / Testimonial Section */
+.testimonial {
+  background-color: #C271FF;
+  color: #fff;
+  text-align: center;
+  padding: 80px 20px;
+}
+
+.testimonial img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
+
+.testimonial blockquote {
+  font-size: 22px;
+  font-weight: 400;
+  max-width: 800px;
+  margin: 0 auto 20px;
+  line-height: 1.5;
+}
+
+.testimonial h3 {
+  font-size: 18px;
+  font-weight: 700;
+  margin: 5px 0;
+}
+
+.testimonial p {
+  font-size: 14px;
+  font-weight: 400;
+  margin: 0;
+}
+
+
